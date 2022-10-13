@@ -1,0 +1,3 @@
+npm install blueprint-css@next --save
+
+npm install --save-dev rollup-plugin-css-only
